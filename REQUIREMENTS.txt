@@ -1,0 +1,11 @@
+1.	Written in Python Programming Language using Microsoft Visual Studio
+2.	Use MongoDB to access and manage the geospatial data
+3.	Be able to perform a Find One Query
+4.	Be able to perform a Find Several Query
+5.	Must visually represent the results of the queries
+6.	Identify comic shops in Louisiana
+7.	Must use geospatial data in JSON format
+8.	Application must use Python / Bottle web API
+9.	Use MongoDB to connect the data to the Web Application
+10.	The web application must have a home page
+11.	The web application must have a navigational menu for the user
