@@ -5,6 +5,9 @@
 
 <section class="store_list">
     <h3>Store List</h3>
+        % for c in comic_list:
+            <div>{{c["Name"]}} : {{c["Type"]}}</div>
+        % end
 </section>
 
 <section class="store_map">
