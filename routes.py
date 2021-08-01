@@ -10,15 +10,13 @@ from datetime import datetime
 @route('/')
 @route('/home')
 @view('index')
-#def home():
-  #  """Renders the home page."""
- #   return dict(
-   #     year=datetime.now().year
-    #)
-def index():
-    """Serve up index template"""
+def home():
+    """Renders the home page."""
     comic_result = connection.coll.find(
         {},
-        {}
+        {"Name": True, "Type": True, "_id": False}
     )
-    return dict(comic_list = list(comic_result))
+    return dict(
+        year=datetime.now().year,
+        comic_list=list(comic_result)
+    )
