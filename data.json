@@ -1,38 +1,506 @@
 [
-  {"the_geom": "POINT (-90.058639131561 29.961632929734)", "OBJECTID": 1281, "Name": "IRON RAIL BOOK", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "503 BARRACKS  ST"},
-  {"the_geom": "POINT (-90.130862853913 29.948081890246)", "OBJECTID": 1287, "Name": "MORE FUN COMICS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "8200 OAK  ST"},
-  {"the_geom": "POINT (-90.060734860827 29.958564771963)", "OBJECTID": 1277, "Name": "EASTERN NATIONAL", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "916 N PETERS  ST"},
-  {"the_geom": "POINT (-90.057855133158 29.963621203326)", "OBJECTID": 1278, "Name": "FAUBOURG MARIGNY ART AND BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "600 FRENCHMEN  ST"},	
-  {"the_geom": "POINT (-90.065864961023 30.028568569265)", "OBJECTID": 1299, "Name": "UNIVERSITY OF NEW ORLEANS PRESS", "Segment": "Literary Arts and Humanities", "Type": "Publishing", "Address": "2000 LAKESHORE  DR"},
-  {"the_geom": "POINT (-90.065706532651 29.953257533584)", "OBJECTID": 1265, "Name": "BECKHAM'S BOOK SHOP", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "228 DECATUR  ST"},
-  {"the_geom": "POINT (-90.105009370836 29.983088306453)", "OBJECTID": 1270, "Name": "CHIMES BOOKSTORE", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "514 CITY PARK  AVE"},
-  {"the_geom": "POINT (-90.065020459498 29.957238492228)", "OBJECTID": 1282, "Name": "KITCHEN WITCH", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "631 TOULOUSE  ST"},
-  {"the_geom": "POINT (-90.119196313446 29.94059023722)", "OBJECTID": 1291, "Name": "TULANE UNIVERSITY BOOKSTORE #569", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "31 MCALISTER  DR"},
-  {"the_geom": "POINT (-90.065513619977 29.951361287862)", "OBJECTID": 1298, "Name": "PHILBEAU PUBLISHING", "Segment": "Literary Arts and Humanities", "Type": "Publishing", "Address": "365 CANAL  ST"},
-  {"the_geom": "POINT (-90.076751706486 29.955255651184)", "OBJECTID": 1292, "Name": "TULANE UNIVERSITY BOOKSTORE #570", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "1430 TULANE  AVE"},
-  {"the_geom": "POINT (-90.115521642254 29.960213581763)", "OBJECTID": 1269, "Name": "CATHOLIC BOOK STORE", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "3003 S CARROLLTON  AVE"},
-  {"the_geom": "POINT (-90.029802127191 29.968116521216)", "OBJECTID": 1295, "Name": "HOT IRON PRESS", "Segment": "Literary Arts and Humanities", "Type": "Publishing", "Address": "1422 KENTUCKY  ST"},
-  {"the_geom": "POINT (-90.021900606794 29.9399281241)", "OBJECTID": 1266, "Name": "BLACKSTAR BOOKS AND CAFFÉ", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "3211 GENERAL MEYERS  AVE"},
-  {"the_geom": "POINT (-90.121451090968 29.93398262286)", "OBJECTID": 1284, "Name": "LOYOLA UNIVERSITY NEW ORLEANS BOOK STORE", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "6363 ST CHARLES  AVE"},
-  {"the_geom": "POINT (-90.064185540092 29.958046678071)", "OBJECTID": 1279, "Name": "FAULKNER HOUSE BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "624 PIRATES  ALY"},
-  {"the_geom": "POINT (-90.103930642596 29.98486494383)", "OBJECTID": 1275, "Name": "DELGADO COMMUNITY COLLEGE BOOKSTORE #279", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "615 CITY PARK  AVE"},
-  {"the_geom": "POINT (-90.084902802538 29.930049870307)", "OBJECTID": 1280, "Name": "GARDEN DISTRICT BOOK SHOP", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "2727 PRYTANIA  ST"},
-  {"the_geom": "POINT (-90.068264522546 29.956951883484)", "OBJECTID": 1273, "Name": "DAUPHINE STREET BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "410 DAUPHINE  ST"},
-  {"the_geom": "POINT (-90.065948811714 29.993700348483)", "OBJECTID": 1276, "Name": "DILLARD UNIVERSITY BOOKSTORE BOOKSTORE", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "2601 GENTILLY  BLVD"},
-  {"the_geom": "POINT (-90.078442661273 29.931905695036)", "OBJECTID": 1290, "Name": "TRINITY TREASURES", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "1329 JACKSON  AVE"},
-  {"the_geom": "POINT (-90.066726154156 29.953996731929)", "OBJECTID": 1271, "Name": "CRESCENT CITY BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "230 CHARTRES  ST"},
-  {"OBJECTID": 1268, "Name": "BROOKSTONE STORES INC", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "500 PORT OF NEW ORLEANS  PL"},
-  {"the_geom": "POINT (-90.088418298374 29.929346713752)", "OBJECTID": 1285, "Name": "LYLES VENTURES LLC", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "3000 ST CHARLES  AVE"},
-  {"the_geom": "POINT (-90.128331702265 29.941054030792)", "OBJECTID": 1286, "Name": "MAPLE STREET BOOK SHOP", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "7523 MAPLE  ST"},
-  {"the_geom": "POINT (-90.062896163679 29.958683067942)", "OBJECTID": 1283, "Name": "LIBRAIRIE BOOK SHOP", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "823 CHARTRES  ST"},
-  {"the_geom": "POINT (-90.089427140166 29.930058677741)", "OBJECTID": 1296, "Name": "LIBERTY PRESS", "Segment":"Literary Arts and Humanities", "Type": "Publishing", "Address": "1633 8TH  ST"},
-  {"the_geom": "POINT (-90.063476515196 29.959337743405)", "OBJECTID": 1297, "Name": "LIGHT OF NEW ORLEANS PUBLISHING LLC", "Segment":"Literary Arts and Humanities", "Type": "Publishing", "Address": "828 ROYAL  ST"},
-  {"the_geom": "POINT (-90.031380535582 29.929712618382)", "OBJECTID": 1274, "Name": "DELGADO COMMUNITY COLLEGE BOOKSTOR #155", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "2600 GENERAL DE GAULLE  DR"},
-  {"the_geom": "POINT (-90.064820590476 29.958538760461)", "OBJECTID": 1264, "Name": "ARCADIAN BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "714 ORLEANS  ST"},
-  {"the_geom": "POINT (-90.013617722135 30.010366477049)", "OBJECTID": 1263, "Name": "A & KOLA INC", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "6420 CHEF MENTEUR  HWY"},
-  {"OBJECTID": 1293, "Name": "XAVIER UNIVERSITY OF LOUISISIANA BOOKSTORE # 014", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "#1 DREXEL  DR"},
-  {"the_geom": "POINT (-90.107734935143 29.934866381205)", "OBJECTID": 1272, "Name": "CRESCENT CITY COMICS", "Segment": "Literary Arts and Humanities", "Type": "Comic", "Address": "4916 FRERET  ST"},
-  {"the_geom": "POINT (-90.1304534631 29.947755764689)", "OBJECTID": 1267, "Name": "BLUE CYPRESS BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address":"8126 OAK  ST"},
-  {"the_geom": "POINT (-90.116681030868 29.918571931495)", "OBJECTID": 1288, "Name":"OCTAVIA BOOKS", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "513 OCTAVIA  ST"},
-  {"the_geom": "POINT (-90.044263823817 30.025832783532)", "OBJECTID": 1289, "Name": "SUNO BOOKSTORE", "Segment": "Literary Arts and Humanities", "Type": "Bookstore", "Address": "6400 PRESS  ST"}
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.058639131561, 29.961632929734 ]
+    },
+    "properties": {
+      "OBJECTID": 1281,
+      "Name": "IRON RAIL BOOK",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "503 BARRACKS ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.130862853913, 29.948081890246 ]
+    },
+    "properties": {
+      "OBJECTID": 1287,
+      "Name": "MORE FUN COMICS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Comic",
+      "Address": "8200 OAK ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.060734860827, 29.958564771963 ]
+    },
+    "properties": {
+      "OBJECTID": 1277,
+      "Name": "EASTERN NATIONAL",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "916 N PETERS ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.057855133158, 29.963621203326 ]
+    },
+    "properties": {
+      "OBJECTID": 1278,
+      "Name": "FAUBOURG MARIGNY ART AND BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "600 FRENCHMEN ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.065864961023, 30.028568569265 ]
+    },
+    "properties": {
+      "OBJECTID": 1299,
+      "Name": "UNIVERSITY OF NEW ORLEANS PRESS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Publishing",
+      "Address": "2000 LAKESHORE  DR"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.065706532651, 29.953257533584 ]
+    },
+    "properties": {
+      "OBJECTID": 1265,
+      "Name": "BECKHAM'S BOOK SHOP",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "228 DECATUR ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.105009370836, 29.983088306453 ]
+    },
+    "properties": {
+      "OBJECTID": 1270,
+      "Name": "CHIMES BOOKSTORE",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "514 CITY PARK AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.065020459498, 29.957238492228 ]
+    },
+    "properties": {
+      "OBJECTID": 1282,
+      "Name": "KITCHEN WITCH",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "631 TOULOUSE ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.119196313446, 29.94059023722 ]
+    },
+    "properties": {
+      "OBJECTID": 1291,
+      "Name": "TULANE UNIVERSITY BOOKSTORE #569",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "31 MCALISTER DR"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.065513619977, 29.951361287862 ]
+    },
+    "properties": {
+      "OBJECTID": 1298,
+      "Name": "PHILBEAU PUBLISHING",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Publishing",
+      "Address": "365 CANAL ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.076751706486, 29.955255651184 ]
+    },
+    "properties": {
+      "OBJECTID": 1292,
+      "Name": "TULANE UNIVERSITY BOOKSTORE #570",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "1430 TULANE AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.115521642254, 29.960213581763 ]
+    },
+    "properties": {
+      "OBJECTID": 1269,
+      "Name": "CATHOLIC BOOK STORE",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "3003 S CARROLLTON AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.029802127191, 29.968116521216 ]
+    },
+    "properties": {
+      "OBJECTID": 1295,
+      "Name": "HOT IRON PRESS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Publishing",
+      "Address": "1422 KENTUCKY ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.021900606794, 29.9399281241 ]
+    },
+    "properties": {
+      "OBJECTID": 1266,
+      "Name": "BLACKSTAR BOOKS AND CAFFÉ",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "3211 GENERAL MEYERS AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.121451090968, 29.93398262286 ]
+    },
+    "properties": {
+      "OBJECTID": 1284,
+      "Name": "LOYOLA UNIVERSITY NEW ORLEANS BOOK STORE",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "6363 ST CHARLES  AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.064185540092, 29.958046678071 ]
+    },
+    "properties": {
+      "OBJECTID": 1279,
+      "Name": "FAULKNER HOUSE BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "624 PIRATES ALY"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.103930642596, 29.98486494383 ]
+    },
+    "properties": {
+      "OBJECTID": 1275,
+      "Name": "DELGADO COMMUNITY COLLEGE BOOKSTORE #279",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "615 CITY PARK AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.084902802538, 29.930049870307 ]
+    },
+    "properties": {
+      "OBJECTID": 1280,
+      "Name": "GARDEN DISTRICT BOOK SHOP",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "2727 PRYTANIA ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.068264522546, 29.956951883484 ]
+    },
+    "properties": {
+      "OBJECTID": 1273,
+      "Name": "DAUPHINE STREET BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "410 DAUPHINE ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.065948811714, 29.993700348483 ]
+    },
+    "properties": {
+      "OBJECTID": 1276,
+      "Name": "DILLARD UNIVERSITY BOOKSTORE BOOKSTORE",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "2601 GENTILLY BLVD"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.078442661273, 29.931905695036 ]
+    },
+    "properties": {
+      "OBJECTID": 1290,
+      "Name": "TRINITY TREASURES",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "1329 JACKSON AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.066726154156, 29.953996731929 ]
+    },
+    "properties": {
+      "OBJECTID": 1271,
+      "Name": "CRESCENT CITY BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "230 CHARTRES ST"
+    }
+  },  
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": []
+    },
+    "properties": {
+      "OBJECTID": 1268,
+      "Name": "BROOKSTONE STORES INC",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "500 PORT OF NEW ORLEANS PL"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.088418298374, 29.929346713752 ]
+    },
+    "properties": {
+      "OBJECTID": 1285,
+      "Name": "LYLES VENTURES LLC",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "3000 ST CHARLES AVE"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.128331702265, 29.941054030792 ]
+    },
+    "properties": {
+      "OBJECTID": 1286,
+      "Name": "MAPLE STREET BOOK SHOP",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "7523 MAPLE ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.062896163679, 29.958683067942 ]
+    },
+    "properties": {
+      "OBJECTID": 1283,
+      "Name": "LIBRAIRIE BOOK SHOP",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "823 CHARTRES ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.089427140166, 29.930058677741 ]
+    },
+    "properties": {
+      "OBJECTID": 1296,
+      "Name": "LIBERTY PRESS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Publishing",
+      "Address": "1633 8TH ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.063476515196, 29.959337743405 ]
+    },
+    "properties": {
+      "OBJECTID": 1297,
+      "Name": "LIGHT OF NEW ORLEANS PUBLISHING LLC",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Publishing",
+      "Address": "828 ROYAL ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.031380535582, 29.929712618382 ]
+    },
+    "properties": {
+      "OBJECTID": 1274,
+      "Name": "DELGADO COMMUNITY COLLEGE BOOKSTOR #155",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "2600 GENERAL DE GAULLE DR"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.064820590476, 29.958538760461 ]
+    },
+    "properties": {
+      "OBJECTID": 1264,
+      "Name": "ARCADIAN BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "714 ORLEANS ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.013617722135, 30.010366477049 ]
+    },
+    "properties": {
+      "OBJECTID": 1263,
+      "Name": "A & KOLA INC",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "6420 CHEF MENTEUR HWY"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": []
+    },
+    "properties": {
+      "OBJECTID": 1293,
+      "Name": "XAVIER UNIVERSITY OF LOUISISIANA BOOKSTORE # 014",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "#1 DREXEL DR"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.107734935143, 29.934866381205 ]
+    },
+    "properties": {
+      "OBJECTID": 1272,
+      "Name": "CRESCENT CITY COMICS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Comic",
+      "Address": "4916 FRERET ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.1304534631, 29.947755764689 ]
+    },
+    "properties": {
+      "OBJECTID": 1267,
+      "Name": "BLUE CYPRESS BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "8126 OAK ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.116681030868, 29.918571931495 ]
+    },
+    "properties": {
+      "OBJECTID": 1288,
+      "Name": "OCTAVIA BOOKS",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "513 OCTAVIA ST"
+    }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ -90.044263823817, 30.025832783532 ]
+    },
+    "properties": {
+      "OBJECTID": 1289,
+      "Name": "SUNO BOOKSTORE",
+      "Segment": "Literary Arts and Humanities",
+      "Type": "Bookstore",
+      "Address": "6400 PRESS  ST"
+    }
+  }  
 ]
