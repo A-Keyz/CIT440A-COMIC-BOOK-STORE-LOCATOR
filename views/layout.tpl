@@ -30,7 +30,7 @@
         {{!base}}
         <hr />
         <footer>
-            <p>&copy; {{ year }} - Comic Book Store Locator</p>
+            <p>&copy; {{ year }} - Comic Book Store Locator - Austin Keisling & Chris Riser</p>
         </footer>
     </div>
 
